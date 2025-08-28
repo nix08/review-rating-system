@@ -141,4 +141,4 @@ static/
 .env.local
 .env.development.local
 .env.test.local
-.env.production.local
+.env.production.localml_model/data/cleaned_reviews_4chunks.csv
